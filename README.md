@@ -1,2 +1,2 @@
 # MIPS
-To understand low-level languages
+To understand low-level languages (basic)
